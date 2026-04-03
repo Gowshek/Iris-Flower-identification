@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification
+# 🌸 Iris Flower Identification
 
 ## Description
 A Machine Learning project that predicts the species 
